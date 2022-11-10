@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/settings.conf</file>
+        <file>Resources/vshader.vsh</file>
+        <file>Resources/shaders.qrc</file>
+        <file>Resources/settings.qrc</file>
+        <file>Resources/fshader.fsh</file>
+    </qresource>
+</RCC>
